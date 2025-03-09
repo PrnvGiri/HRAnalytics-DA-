@@ -7,14 +7,11 @@ This project analyzes company attrition rates using Python to uncover trends and
 - Data preprocessing and cleaning
 - Exploratory Data Analysis (EDA) with visualizations
 - Identifying key factors contributing to attrition
-- Statistical analysis and hypothesis testing
-- Machine learning models for attrition prediction
 
 ## Technologies Used
 - Python
 - Pandas & NumPy for data manipulation
 - Matplotlib & Seaborn for data visualization
-- Scikit-learn for machine learning
 - Jupyter Notebook
 
 ## How to Use
@@ -33,7 +30,7 @@ This project analyzes company attrition rates using Python to uncover trends and
 4. Run the analysis step by step.
 
 ## Dataset
-- The dataset contains employee details such as age, department, salary, job satisfaction, and whether they left the company.
+- The dataset contains employee details such as satisfactory level, last evaluation, number of projects, average monthly hours, time spent in the company, work accidents, whether they left, promotion in the last five years, department, and salary.
 - Ensure you have the dataset in the required format before running the notebook.
 
 ## Contributions
